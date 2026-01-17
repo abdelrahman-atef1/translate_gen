@@ -31,3 +31,10 @@
 - Improve regex patterns for better string detection
 - Add support for custom translation templates
 - Enhanced error reporting and debugging features
+
+## 1.1.0
+- Update dependencies to latest versions:
+  - analyzer: ^6.4.1 -> ^10.0.1
+  - dart_style: ^2.0.0 -> ^3.1.4
+  - lints: ^5.0.0 -> ^6.0.0
+- To be Compatible with latest Flutter version (3.38.6) and Dart SDK (3.10.7)
