@@ -38,3 +38,9 @@
   - dart_style: ^2.0.0 -> ^3.1.4
   - lints: ^5.0.0 -> ^6.0.0
 - To be Compatible with latest Flutter version (3.38.6) and Dart SDK (3.10.7)
+
+## 1.1.1
+- Adjust dependencies for better compatibility:
+  - analyzer: ^10.0.1 -> ^9.0.0
+  - dart_style: ^3.1.4 -> 3.1.3
+- Add `.vscode/` to `.gitignore` for better development experience
